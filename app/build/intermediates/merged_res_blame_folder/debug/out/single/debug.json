@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_item_rounded.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_item_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_order.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\layout\\item_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_message.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_help.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_post1.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_post1.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_promo.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_promo.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_selected.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_home_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_box.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_maps.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\layout\\item_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_iron.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_iron.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_post2.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_post2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_avatar.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pick_up.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_pick_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rounded_white.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_rounded_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_laundry.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_laundry.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawer_selected_item.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\drawer_selected_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_selector.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_search_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_messages_selector.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_messages_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_selected.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_notifications_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_selector.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_home_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_header.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_selector.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_notifications_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_search.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_washing_machine.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_washing_machine.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_setting.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_black.ttf.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\font\\nunito_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_drawer.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\color_nav_color.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\color\\nav_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wallet.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_services.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_search_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_support.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_recommended.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_recommended.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_drop_off.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_drop_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_detail.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\layout\\activity_home_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_post3.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_post3.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_circle_green_line.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_circle_green_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\menu\\menu_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_profile.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\menu\\menu_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_support.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_support.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_selected.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_search_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_messages_selected.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_messages_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_filter.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable-v24\\ic_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_support.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_support.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_support.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_support.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_semi_bold.ttf.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\font\\nunito_semi_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\color_drawer_item_color.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\color\\drawer_item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_support.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_support.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_half_rounded_dark.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_half_rounded_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shirt.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_shirt.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_circle_gray_line.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_circle_gray_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_support.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_support.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_half_rounded2.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_half_rounded2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_search2.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_search2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_recommended.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\layout\\item_recommended.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_bold.ttf.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\font\\nunito_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bg_map.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable-xxxhdpi\\bg_map.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_messages.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_item_choose_services.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\bg_item_choose_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_support.png.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_support.png"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notification.xml.flat",
+        "source": "C:\\Users\\yotech05\\Downloads\\Kiosk\\Laundry-App-UI\\app\\src\\main\\res\\layout\\fragment_notification.xml"
+    }
+]
