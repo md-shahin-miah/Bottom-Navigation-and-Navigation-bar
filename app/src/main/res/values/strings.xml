@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Laundry App UI</string>
+    <string name="app_name">Navigation App Sample</string>
     <string name="menu_home">Home</string>
     <string name="menu_search">Search</string>
     <string name="menu_notification">Notification</string>

@@ -30,7 +30,7 @@
             android:layout_marginTop="5dp"
             android:fontFamily="@font/nunito_black"
             android:gravity="center_horizontal"
-            android:text="Laundry App UI"
+            android:text="Navigation App UI"
             android:textColor="@color/dark_late_gray"
             android:textSize="15sp"
             android:textStyle="bold" />
@@ -41,7 +41,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/nunito_bold"
             android:paddingBottom="15dp"
-            android:text="laundryappui@gmail.com"
+            android:text="shahinui@gmail.com"
             android:textColor="@color/dark_late_gray"
             android:textSize="12sp" />
 
