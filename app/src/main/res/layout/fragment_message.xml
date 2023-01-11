@@ -60,7 +60,7 @@
                 android:fontFamily="@font/nunito_black"
                 android:layout_marginStart="25dp"
                 android:layout_marginEnd="25dp"
-                android:text="Login with your Whatsapp number for use this feature"
+                android:text="Login with your mobile number for use this feature"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
         </RelativeLayout>

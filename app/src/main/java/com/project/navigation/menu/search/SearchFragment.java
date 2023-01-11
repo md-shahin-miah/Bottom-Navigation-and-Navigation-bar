@@ -41,9 +41,12 @@ public class SearchFragment extends Fragment {
     private void initData() {
         searchModelList = new ArrayList<>();
 
-        searchModelList.add(new SearchModel(R.drawable.bg_post1, "Adek Laundry \nCompany and Co.", "7.5", "Distance 1.5 km"));
-        searchModelList.add(new SearchModel(R.drawable.bg_post2, "Saudara Laundry \nCompany and Co.", "8.5", "Distance 2.5 km"));
+        searchModelList.add(new SearchModel(R.drawable.bg_post1, "Chelsea Green Valet \nCompany and Co.", "8.8", "Distance 1.5 km"));
+        searchModelList.add(new SearchModel(R.drawable.bg_post2, "Oxwash \nCompany and Co.", "8.5", "Distance 2.5 km"));
         searchModelList.add(new SearchModel(R.drawable.bg_post3, "Ponakan Laundry \nCompany and Co.", "9.5", "Distance 3.5 km"));
+        searchModelList.add(new SearchModel(R.drawable.bg_post1, "Dirty Laundry \nCompany and Co.", "8.8", "Distance 1.5 km"));
+        searchModelList.add(new SearchModel(R.drawable.bg_post2, "ihateironing \nCompany and Co.", "8.5", "Distance 2.5 km"));
+        searchModelList.add(new SearchModel(R.drawable.bg_post3, "Palace Laundry \nCompany and Co.", "9.5", "Distance 3.5 km"));
     }
 
     private void setAdapterType(View view) {

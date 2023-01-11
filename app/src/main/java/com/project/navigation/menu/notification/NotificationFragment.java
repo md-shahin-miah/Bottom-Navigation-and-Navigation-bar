@@ -44,8 +44,10 @@ public class NotificationFragment extends Fragment {
     private void initData() {
         notificationModelList = new ArrayList<>();
 
-        notificationModelList.add(new NotificationModel(R.drawable.ic_box, "Order No : #73636265", "Order Confirmed" ));
-        notificationModelList.add(new NotificationModel(R.drawable.ic_box, "Order No : #63231323", "Order Confirmed" ));
+        notificationModelList.add(new NotificationModel(R.drawable.ic_box, "Order No : #736Y26K", "Order has Confirmed" ));
+        notificationModelList.add(new NotificationModel(R.drawable.ic_box, "Order No : #63X313H3", "Order has Confirmed" ));
+        notificationModelList.add(new NotificationModel(R.drawable.ic_box, "Order No : #63X313K3", "Order has Confirmed" ));
+        notificationModelList.add(new NotificationModel(R.drawable.ic_box, "Order No : #63X313T3", "Order has Confirmed" ));
     }
 
     private void setAdapterType(View view) {

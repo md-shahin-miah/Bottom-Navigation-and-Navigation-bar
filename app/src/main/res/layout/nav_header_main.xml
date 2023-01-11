@@ -30,7 +30,7 @@
             android:layout_marginTop="5dp"
             android:fontFamily="@font/nunito_black"
             android:gravity="center_horizontal"
-            android:text="Navigation App UI"
+            android:text="Clean sweep"
             android:textColor="@color/dark_late_gray"
             android:textSize="15sp"
             android:textStyle="bold" />

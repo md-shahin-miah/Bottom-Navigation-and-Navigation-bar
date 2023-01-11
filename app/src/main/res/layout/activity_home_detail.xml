@@ -39,7 +39,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/nunito_black"
-                android:text="Papa Laundry"
+                android:text="Chelsea Green Valet"
                 android:textColor="@color/dark_late_gray"
                 android:textSize="20sp" />
 
@@ -60,7 +60,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_toEndOf="@+id/image_location"
                 android:fontFamily="@font/nunito_semi_bold"
-                android:text="Jl. Kenangan saat bersamamu (1.3 km)"
+                android:text="1 Godfrey Street, Chelsea(1.5km)"
                 android:textColor="@color/dark_gray"
                 android:textSize="11sp"
                 tools:ignore="SmallSp" />

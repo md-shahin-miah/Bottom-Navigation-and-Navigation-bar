@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Navigation App Sample</string>
+    <string name="app_name">Clean Sweep</string>
     <string name="menu_home">Home</string>
     <string name="menu_search">Search</string>
     <string name="menu_notification">Notification</string>
@@ -9,7 +9,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="version_app">version 1.1</string>
-    <string name="recommended">Recommended</string>
+    <string name="recommended">Recommended services</string>
     <string name="more">More</string>
     <string name="dry_cleaning">Dry Cleaning</string>
     <string name="wash_and_iron"><![CDATA[Wash & Iron]]></string>

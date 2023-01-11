@@ -6,8 +6,9 @@ com/project/navigation/menu/home/adapter/HomeAdapter.java
  com.project.navigation.menu.home.adapter.HomeAdapter
  com.project.navigation.menu.home.adapter.HomeAdapter$1
  com.project.navigation.menu.home.adapter.HomeAdapter$ViewHolder
-com/project/navigation/menu/notification/NotificationFragment.java
- com.project.navigation.menu.notification.NotificationFragment
+com/project/navigation/MainActivity.java
+ com.project.navigation.MainActivity
+ com.project.navigation.MainActivity$1
 com/project/navigation/menu/search/SearchFragment.java
  com.project.navigation.menu.search.SearchFragment
 com/project/navigation/BuildConfig.java
@@ -26,6 +27,5 @@ com/project/navigation/menu/notification/adapter/NotificationAdapter.java
  com.project.navigation.menu.notification.adapter.NotificationAdapter$ViewHolder
 com/project/navigation/menu/message/MessageFragment.java
  com.project.navigation.menu.message.MessageFragment
-com/project/navigation/MainActivity.java
- com.project.navigation.MainActivity
- com.project.navigation.MainActivity$1
+com/project/navigation/menu/notification/NotificationFragment.java
+ com.project.navigation.menu.notification.NotificationFragment

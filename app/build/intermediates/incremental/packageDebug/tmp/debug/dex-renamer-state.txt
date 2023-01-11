@@ -1,7 +1,7 @@
-#Sun Jan 08 01:00:30 BDT 2023
-base.0=C\:\\Users\\User\\AndroidStudioProjects\\Bottom-Navigation-and-Navigation-bar\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+#Wed Jan 11 11:41:15 BDT 2023
+base.0=C\:\\Users\\yotech05\\Downloads\\Kiosk\\Bottom-Navigation-and-Navigation-bar\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\User\\AndroidStudioProjects\\Bottom-Navigation-and-Navigation-bar\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.1=C\:\\Users\\yotech05\\Downloads\\Kiosk\\Bottom-Navigation-and-Navigation-bar\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

@@ -6,53 +6,53 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="22"
-8-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml
+8-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml
+9-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:5:5-66
-11-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-12-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:6:5-75
-12-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:6:22-73
+12-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:6:5-75
+12-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:6:22-73
 13
 14    <application
-14-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:8:5-23:19
+14-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:8:5-23:19
 15        android:allowBackup="true"
-15-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:9:9-35
+15-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:9:9-35
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-16-->[androidx.core:core:1.3.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:24:18-86
+16-->[androidx.core:core:1.3.1] C:\Users\yotech05\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:24:18-86
 17        android:debuggable="true"
 18        android:icon="@drawable/ic_laundry"
-18-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:10:9-44
+18-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:10:9-44
 19        android:label="@string/app_name"
-19-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:11:9-41
+19-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:11:9-41
 20        android:roundIcon="@drawable/ic_laundry"
-20-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:12:9-49
+20-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:12:9-49
 21        android:supportsRtl="true"
-21-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:13:9-35
+21-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:13:9-35
 22        android:testOnly="true"
 23        android:theme="@style/Theme.LaundryAppUI.NoActionBar" >
-23-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:14:9-62
+23-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:14:9-62
 24        <activity android:name="com.project.navigation.menu.home.home_detail.HomeDetailActivity" />
-24-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:15:9-100
-24-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:15:19-97
+24-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:15:9-100
+24-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:15:19-97
 25        <activity
-25-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:16:9-22:20
+25-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:16:9-22:20
 26            android:name="com.project.navigation.MainActivity"
-26-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:16:19-69
+26-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:16:19-69
 27            android:windowSoftInputMode="adjustPan" >
-27-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:16:70-109
+27-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:16:70-109
 28            <intent-filter>
-28-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:17:13-21:29
+28-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:17:13-21:29
 29                <action android:name="android.intent.action.MAIN" />
-29-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:18:17-69
-29-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:18:25-66
+29-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:18:17-69
+29-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:18:25-66
 30
 31                <category android:name="android.intent.category.LAUNCHER" />
-31-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:20:17-77
-31-->C:\Users\User\AndroidStudioProjects\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:20:27-74
+31-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:20:17-77
+31-->C:\Users\yotech05\Downloads\Kiosk\Bottom-Navigation-and-Navigation-bar\app\src\main\AndroidManifest.xml:20:27-74
 32            </intent-filter>
 33        </activity>
 34    </application>
